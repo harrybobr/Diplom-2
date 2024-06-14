@@ -72,7 +72,7 @@ public class CreateOrderTest {
         .and().body("message", is("Ingredient ids must be provided"));
   }
 
-  @Test
+  @Test  // в документации ошибка - требует возвращать код 500 Internal Server Error
   @DisplayName("Создание заказа с неверным хешем ингредиента")
   @Description("Проверка создания заказа с неверным хешем ингредиента")
   public void createOrderWithWrongIngredientTest() {
