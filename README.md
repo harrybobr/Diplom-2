@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 # Stellar Burgers: API Tests
 
 ### Описание проекта
@@ -82,5 +84,9 @@ mvn allure:serve
 - В папке `test/java` лежат все тесты.
 - В файле `pom.xml` нет ничего лишнего.
 
-# Contacts
+# Контакты
 Игорь Бобров - harrybobrov@gmail.com
+
+<div style="text-align: right;">
+  <a href="#top">Наверх</a>
+</div>
