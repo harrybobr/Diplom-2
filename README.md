@@ -63,9 +63,9 @@ mvn allure:serve
 ### Jenkins CI/CD
 Как и в предыдущем проекте, для дополнительной практики я настроил облачный Jenkins для автоматического запуска тестов.
 
-- **Jenkins URL:** [Jenkins Instance](http://66.151.32.201:8081/)
+- **Jenkins URL:** [Jenkins Instance](http://146.0.79.56:8081/)
 - **Логин:** `test`
-- **Пароль:** `^x1!RnlsMUmU`
+- **Пароль:** `H8K*UKC7erXZ&G`
 
 <p align="right">
   <a href="#top">back to top</a>
